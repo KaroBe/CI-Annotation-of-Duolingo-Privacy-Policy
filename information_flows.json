@@ -1,0 +1,1143 @@
+[
+  {
+    "text": "Through the registration process, you will provide us with your name, e-mail address (or parent’s e-mail address), and age or date of birth.",
+    "id": 0,
+    "receivers": [
+      "us"
+    ],
+    "senders": [
+      "you"
+    ],
+    "attributes": [
+      "name",
+      "e-mail address (or parent’s e-mail address)",
+      "age or date of birth"
+    ],
+    "tps": [
+      "Through the registration process"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "text": "You will also provide us with your payment transaction information if you choose to pay for Duolingo services.",
+    "id": 1,
+    "receivers": [
+      "us"
+    ],
+    "senders": [
+      "you"
+    ],
+    "attributes": [
+      "payment transaction information"
+    ],
+    "tps": [
+      "if you choose to pay for Duolingo services"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "text": "When you use the Service, you will submit information and content to your profile.",
+    "id": 2,
+    "receivers": [
+      "profile"
+    ],
+    "senders": [
+      "you"
+    ],
+    "attributes": [
+      "information",
+      "content"
+    ],
+    "tps": [
+      "When you use the Service"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "text": "We will also generate data about your use of our Services including your engagement in educational activities on the Service, or your sending of messages and otherwise transmitting information to other users (“Activity Data”).",
+    "receivers": [
+      "We"
+    ],
+    "senders": [
+      "your"
+    ],
+    "attributes": [
+      "data about your use of our Services including your engagement in educational activities on the Service, or your sending of messages and otherwise transmitting information to other users (“Activity Data”)"
+    ],
+    "tps": [],
+    "id": 3,
+    "vague": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "text": " We also collect technical data about how you interact with our Services; for more information, see Cookies.",
+    "receivers": [
+      "We"
+    ],
+    "senders": [],
+    "attributes": [
+      "technical data about how you interact with our Services"
+    ],
+    "tps": [],
+    "id": 4,
+    "vague": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "text": "When you use Duolingo in our app or on our website, we use a service named FullStory to log your activity. This provides us with a set of data and a session replay of your activity on Duolingo in the form of a video.",
+    "id": 5,
+    "receivers": [
+      "us"
+    ],
+    "senders": [
+      "FullStory"
+    ],
+    "attributes": [
+      "a set of data and a session replay of your activity on Duolingo in the form of a video"
+    ],
+    "tps": [
+      "When you use Duolingo in our app or on our website",
+      "to log your activity"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "text": "FullSory captures and analyzes your usage data to help us make your Duolingo experience better.",
+    "id": 6,
+    "receivers": [
+      "FullStory"
+    ],
+    "senders": [],
+    "attributes": [
+      "usage data"
+    ],
+    "tps": [
+      "to help us make your Duolingo experience better"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "text": "We do record the following data: Usage Patterns (Clicks, Mouse movements, Scrolling, Typing) Tech Specs (Browser, Device type, Operating system, Viewfinder size, Script errors, IP address) Navigation (Pages visited, Referrers, URL parameters, Session duration) Learning Activity (Session progress, Answers)",
+    "id": 7,
+    "receivers": [
+      "We"
+    ],
+    "senders": [],
+    "attributes": [
+      "Usage Patterns (Clicks, Mouse movements, Scrolling, Typing)",
+      "Tech Specs (Browser, Device type, Operating system, Viewfinder size, Script errors, IP address)",
+      "Navigation (Pages visited, Referrers, URL parameters, Session duration)",
+      "Learning Activity (Session progress, Answers)"
+    ],
+    "tps": [],
+    "vague": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "text": "You can disable FullStory activity recording by using the opt-out function on FullStory’s website here.",
+    "id": 8,
+    "receivers": [
+      "FullStory"
+    ],
+    "senders": [],
+    "attributes": [
+      "activity recording"
+    ],
+    "tps": [
+      "opt-out"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      [
+        "can"
+      ]
+    ]
+  },
+  {
+    "text": "You may have the option of messaging a tutor directly through Duolingo with a feature called Duolingo Tutors. In this case, you may opt into sending text, audio, image, or video files to this tutor and sharing personal data about yourself.",
+    "id": 9,
+    "receivers": [
+      "tutor"
+    ],
+    "senders": [
+      "You"
+    ],
+    "attributes": [
+      "text",
+      "audio",
+      "image",
+      "video files",
+      "personal data"
+    ],
+    "tps": [
+      "opt into"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      [
+        "may"
+      ]
+    ]
+  },
+  {
+    "text": "Duolingo uses this data to help improve the quality of your interactions with Duolingo Tutors and for internal research purposes.",
+    "id": 10,
+    "receivers": [
+      "Duolingo"
+    ],
+    "senders": [],
+    "attributes": [
+      "data"
+    ],
+    "tps": [
+      "to help improve the quality of your interactions with Duolingo Tutors and for internal research purposes"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "text": "By default Duolingo will only share your username, profile image, and recent Duolingo activity with your tutor. This includes learning details such as what lessons you completed and any recent mistakes.",
+    "id": 11,
+    "receivers": [
+      "tutor"
+    ],
+    "senders": [
+      "Duolingo"
+    ],
+    "attributes": [
+      "username",
+      "profile image",
+      "recent Duolingo activity",
+      "learning details such as what lessons you completed and any recent mistakes"
+    ],
+    "tps": [
+      "By default"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "text": "Some lessons involve you speaking into the app. To recognize speech your audio may be sent to a third party provider such as Google, Apple, or Amazon Web Services.",
+    "id": 12,
+    "receivers": [
+      "a third party provider such as Google, Apple, or Amazon Web Services"
+    ],
+    "senders": [],
+    "attributes": [
+      "audio"
+    ],
+    "tps": [
+      "Some lessons",
+      "To recognize speech"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      [
+        "may"
+      ]
+    ]
+  },
+  {
+    "text": "We may ask you to allow Duolingo to collect and analyze your speech data to help us understand the effectiveness of our lessons, and to improve the product.",
+    "id": 13,
+    "receivers": [
+      "Duolingo"
+    ],
+    "senders": [
+      "you"
+    ],
+    "attributes": [
+      "speech data"
+    ],
+    "tps": [
+      "We may ask you to allow",
+      "to help us understand the effectiveness of our lessons",
+      "to improve the product"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      [
+        "may"
+      ]
+    ]
+  },
+  {
+    "text": "Any audio you agree to send to Duolingo is anonymized when it reaches our servers to ensure that no trace of your personal data remains attached to the audio.",
+    "id": 14,
+    "receivers": [
+      "Duolingo"
+    ],
+    "senders": [
+      "you"
+    ],
+    "attributes": [
+      "audio"
+    ],
+    "tps": [
+      "anonymized when it reaches our servers to ensure that no trace of your personal data remains attached to the audio"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "text": "If you register for the Duolingo English Test, you will also provide us with your gender, native language, secondary school, and self-reported test scores for other exams.",
+    "id": 15,
+    "receivers": [
+      "us"
+    ],
+    "senders": [
+      "you"
+    ],
+    "attributes": [
+      "gender",
+      "native language",
+      "secondary school",
+      "self-reported test scores for other exams"
+    ],
+    "tps": [
+      "If you register for the Duolingo English Test"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "text": "Each time you take a test you must also provide a photo of a current, valid driver’s license, passport, or other government issued ID and take a photo of your face to verify your identity (“Testing ID”).",
+    "id": 16,
+    "receivers": [],
+    "senders": [
+      "you"
+    ],
+    "attributes": [
+      "a photo of a current, valid driver’s license, passport, or other government issued ID",
+      "photo of your face"
+    ],
+    "tps": [
+      "to verify your identity"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "text": "We will use them to record you and your screen during the entire examination period (“Testing Video”). From the collected data, Duolingo and/or its trusted third-parties may extract biometric signals for the use of identity verification.",
+    "id": 17,
+    "receivers": [
+      "We",
+      "trusted third-parties"
+    ],
+    "senders": [
+      "you"
+    ],
+    "attributes": [
+      "record you and your screen"
+    ],
+    "tps": [
+      "during the entire examination period",
+      "extract biometric signals for the use of identity verification"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      [
+        "may"
+      ]
+    ]
+  },
+  {
+    "text": "While using the Duolingo English Test, you will submit answers to questions and other information as part of the testing and evaluation process.",
+    "id": 18,
+    "receivers": [],
+    "senders": [
+      "you"
+    ],
+    "attributes": [
+      "answers to questions",
+      "other information"
+    ],
+    "tps": [
+      "While using the Duolingo English Test",
+      "as part of the testing and evaluation process"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "text": "During the test, the testing software will monitor if additional applications or processes are running on your computer, but will not open any applications or individual files.",
+    "id": 19,
+    "receivers": [],
+    "senders": [],
+    "attributes": [
+      "if additional applications or processes are running on your computer"
+    ],
+    "tps": [
+      "During the test"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "text": "Additionally, Duolingo will be able to note if any peripherals are used during the test (i.e. external devices attached to your computer), but will not have any control or access to these peripherals.",
+    "id": 20,
+    "receivers": [
+      "Duolingo"
+    ],
+    "senders": [],
+    "attributes": [
+      "if any peripherals are used (i.e. external devices attached to your computer)"
+    ],
+    "tps": [
+      "during the test"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "text": "Duolingo will not open network packets, but will have access to network usage statistics and the volume of network traffic.",
+    "id": 21,
+    "receivers": [
+      "Duolingo"
+    ],
+    "senders": [],
+    "attributes": [
+      "network usage statistics",
+      "the volume of network traffic"
+    ],
+    "tps": [],
+    "vague": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "text": "When you participate in these research activities, the information you provide will be used to test, improve, and develop our products. We will record the video, audio and text transcriptions of this feedback together with any additional contact information you provide and will retain this data for two years.",
+    "id": 22,
+    "receivers": [
+      "Duolingo"
+    ],
+    "senders": [
+      "you"
+    ],
+    "attributes": [
+      "information",
+      "video, audio and text transcriptions of this feedback",
+      "additional contact information"
+    ],
+    "tps": [
+      "When you participate in these research activities",
+      "to test, improve, and develop our products"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "text": "When you enter the Website, we collect your browser type and your IP address (a unique address that identifies your computer on the Internet).",
+    "id": 23,
+    "receivers": [
+      "we"
+    ],
+    "senders": [],
+    "attributes": [
+      "browser type",
+      "IP address"
+    ],
+    "tps": [
+      "When you enter the Website"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "text": "When you use our mobile Application, we collect your device type, your device ID, and your IP address.",
+    "id": 24,
+    "receivers": [
+      "we"
+    ],
+    "senders": [],
+    "attributes": [
+      "device type",
+      "device ID",
+      "IP address"
+    ],
+    "tps": [
+      "When you use our mobile Application"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "text": "In addition, we store certain information from your browser using cookies. A cookie is a piece of data stored on the user's computer tied to information about the user. We use session ID cookies to confirm that users are logged in. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature; however, you should note that cookies may be necessary to provide you certain features available on the Website (e.g., customized delivery of information).",
+    "id": 25,
+    "receivers": [
+      "we"
+    ],
+    "senders": [],
+    "attributes": [
+      "certain information from your browser"
+    ],
+    "tps": [
+      "using cookies",
+      "to confirm that users are logged in",
+      "deny or accept the cookie feature",
+      "to provide you certain features available on the Website (e.g., customized delivery of information)"
+    ],
+    "vague": [
+      [],
+      [],
+      [
+        "certain",
+        "most"
+      ],
+      [
+        "may"
+      ]
+    ]
+  },
+  {
+    "text": "To support and enhance the Service, we work with a variety of third party advertising networks, marketing analytics service providers and website analysis firms, such as Google, Facebook, Oath, and Unity (collectively, “Third Party Advertising Service Providers”). These Third Party Advertising Service Providers collect and use personal data about your visits to and use of the Website and mobile Application, as well as other websites in order to serve you with advertisements and content tailored to meet your preferences and likely interests or better understand ad effectiveness.",
+    "id": 26,
+    "receivers": [
+      "third party advertising networks, marketing analytics service providers and website analysis firms, such as Google, Facebook, Oath, and Unity (collectively, “Third Party Advertising Service Providers”)"
+    ],
+    "senders": [
+    ],
+    "attributes": [
+      "personal data about your visits to and use of the Website and mobile Application, as well as other websites"
+    ],
+    "tps": [
+      "To support and enhance the Service",
+      "to serve you with advertisements and content tailored to meet your preferences and likely interests",
+      " better understand ad effectiveness"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      [
+        "likely"
+      ]
+    ]
+  },
+  {
+    "text": "Aggregate demographic and interest data will also be used for market research purposes.",
+    "id": 27,
+    "receivers": [],
+    "senders": [],
+    "attributes": [
+      "Aggregate demographic and interest data"
+    ],
+    "tps": [
+      "for market research purposes"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "text": "Like many services, Google Analytics uses first-party cookies to track user interactions as in our case, where they are used to collect information about how users use our site. This information is used to compile reports and to help us improve our Website. The reports disclose website trends without identifying individual visitors. You can opt out of Google Analytics without affecting how you visit our site – for more information on opting out of being tracked by Google Analytics across all websites you use, visit this Google page: https://tools.google.com/dlpage/gaoptout.",
+    "id": 28,
+    "receivers": [
+      "Google Analytics"
+    ],
+    "senders": [],
+    "attributes": [
+      "information"
+    ],
+    "tps": [
+      "first-party cookies",
+      "to track user interactions",
+      "to collect information about how users use our site",
+      "to compile reports",
+      "to help us improve our Website",
+      "opt out"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      [
+        "can"
+      ]
+    ]
+  },
+  {
+    "text": "Duolingo may use or share anonymous data collected through the Service, including Activity Data without limitation.",
+    "id": 29,
+    "receivers": [],
+    "senders": [
+      "Duolingo"
+    ],
+    "attributes": [
+      "data collected through the Service, including Activity Data"
+    ],
+    "tps": [
+      "anonymous",
+      "without limitation"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      [
+        "may"
+      ]
+    ]
+  },
+  {
+    "text": "We may also use your contact information to send you notifications regarding new services, offers and promotions offered by Duolingo if you affirmatively consent to receive such communications.",
+    "id": 30,
+    "receivers": [
+      "We"
+    ],
+    "senders": [],
+    "attributes": [
+      "contact information"
+    ],
+    "tps": [
+      "to send you notifications regarding new services, offers and promotions offered by Duolingo if you affirmatively consent to receive such communications"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      [
+        "may"
+      ]
+    ]
+  },
+  {
+    "text": "When you register with Duolingo, some of your information is made public and available at various locations including duolingo.com/profile/your-username and duolingo.com/users/your-username. This will include the data from your Duolingo Profile and Account (Name, Location, Bio, Username, User ID, Profile picture and Duolingo Plus membership status); your followers and the people you follow; and your learning progress (XP, Streak, Lingots, Daily Progress, Languages being learned, progress level, Crowns, Skills, Lessons undertaken, Lexemes and Strength).",
+    "id": 31,
+    "receivers": [
+      "public"
+    ],
+    "senders": [
+      "Duolingo"
+    ],
+    "attributes": [
+      "information",
+      "data from your Duolingo Profile and Account (Name, Location, Bio, Username, User ID, Profile picture and Duolingo Plus membership status)",
+      "your followers",
+      "the people you follow",
+      "learning progress (XP, Streak, Lingots, Daily Progress, Languages being learned, progress level, Crowns, Skills, Lessons undertaken, Lexemes and Strength)"
+    ],
+    "tps": [
+      "When you register with Duolingo"
+    ],
+    "vague": [
+      [],
+      [],
+      [
+        "some"
+      ],
+      []
+    ]
+  },
+  {
+    "text": "Tinycards decks you create are also public by default, but can be made visible to only you or to people you have shared a link with.",
+    "id": 32,
+    "receivers": [
+      "public"
+    ],
+    "senders": [
+      "you"
+    ],
+    "attributes": [
+      "Tinycards decks"
+    ],
+    "tps": [
+      "by default",
+      "can be made visible to only you or to people you have shared a link with"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      [
+        "can"
+      ]
+    ]
+  },
+  {
+    "text": "Third party websites may be able to read, collect and use your public information for their own purposes.",
+    "id": 33,
+    "receivers": [
+      "Third party websites"
+    ],
+    "senders": [
+      "public"
+    ],
+    "attributes": [
+      "information"
+    ],
+    "tps": [
+      "for their own purposes"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      [
+        "may"
+      ]
+    ]
+  },
+  {
+    "text": "Profile information is used by Duolingo to be presented back to and edited by you when you access the Service and to be presented to other users.",
+    "id": 34,
+    "receivers": [
+      "other users",
+      "you"
+    ],
+    "senders": [
+      "Duolingo"
+    ],
+    "attributes": [
+      "Profile information"
+    ],
+    "tps": [
+      "to be presented back to and edited by you when you access the Service",
+      "to be presented to other users"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "text": "In some cases, other users may be able to supplement your profile, including by submitting comments (which can be deleted by you). Duolingo uses this information to provide you with support, to send you essential notifications, to enforce our terms, conditions and policies, to communicate with you, to administer the Services, and for internal operations, including troubleshooting, data analysis, testing, research, statistical, and survey purposes. Duolingo’s Terms and Conditions provide the contractual lawful basis for these processing activities.",
+    "id": 35,
+    "receivers": [
+      "Duolingo"
+    ],
+    "senders": [
+      "other users"
+    ],
+    "attributes": [],
+    "tps": [
+      "to supplement your profile, including by submitting comments",
+      "to provide you with support, to send you essential notifications, to enforce our terms, conditions and policies, to communicate with you, to administer the Services, and for internal operations, including troubleshooting, data analysis, testing, research, statistical, and survey purposes"
+    ],
+    "vague": [
+      [],
+      [],
+      [
+        "some"
+      ],
+      [
+        "may",
+        "can"
+      ]
+    ]
+  },
+  {
+    "text": "When you take a test in the Duolingo English Test, we will use your computer's camera and microphone throughout the test to collect a Testing Video.",
+    "id": 36,
+    "receivers": [
+      "we"
+    ],
+    "senders": [],
+    "attributes": [
+      "Testing Video"
+    ],
+    "tps": [
+      "When you take a test in the Duolingo English Test"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "text": "We will process information in connection with the Duolingo English Test comprising given name(s), surname(s), date of birth, gender, native language, country, secondary school, self-reported test scores for other exams, application IDs, a picture or scan of a current, valid driver’s license, passport or other government issued ID, your Testing ID, Testing Video, biometric signals extracted from collected data, data about active software processes, information on connected external peripherals, and volume of network traffic, and answers to questions as part of the testing and evaluation process in order: To provide accurate testing results to Score Recipient(s) (as defined below). To compare your Testing ID to your Testing Video to ensure that the person who registered for the examination (and whose identity Duolingo has validated) is the same person who took the examination. In addition, this comparison may be carried out on biometric signals that have been extracted from collected data. To store and review the Testing Video recording, the active software processes and the volume of network traffic to validate that you took the examination without improper assistance. To evaluate your performance on the Duolingo English Test, to report results and to evaluate the usefulness, accuracy and other aspects of the Duolingo English Test. For our research team to validate and improve the examination, in an anonymized format. To analyze audio recordings of verbal responses to improve our ability to understand the spoken language. To share your Testing ID with your consent upon initiation of a dispute by a Score Recipient.",
+    "id": 37,
+    "receivers": [
+      "We"
+    ],
+    "senders": [],
+    "attributes": [
+      "given name(s), surname(s)", "date of birth", "gender", "native language", "country", "secondary school", "self-reported test scores for other exams", "application IDs", "a picture or scan of a current, valid driver’s license, passport or other government issued ID", "your Testing ID", "Testing Video", "biometric signals extracted from collected data", "data about active software processes", "information on connected external peripherals", "volume of network traffic", "answers to questions"
+    ],
+    "tps": [
+      "in connection with the Duolingo English Test",
+      "as part of the testing and evaluation process",
+      "To provide accurate testing results to Score Recipient(s) (as defined below).",
+      "To compare your Testing ID to your Testing Video to ensure that the person who registered for the examination (and whose identity Duolingo has validated) is the same person who took the examination. In addition, this comparison may be carried out on biometric signals that have been extracted from collected data.",
+      "To store and review the Testing Video recording, the active software processes and the volume of network traffic to validate that you took the examination without improper assistance.",
+      "To evaluate your performance on the Duolingo English Test, to report results and to evaluate the usefulness, accuracy and other aspects of the Duolingo English Test.",
+      "For our research team to validate and improve the examination, in an anonymized format.",
+      "To analyze audio recordings of verbal responses to improve our ability to understand the spoken language.",
+      "To share your Testing ID with your consent upon initiation of a dispute by a Score Recipient."
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      [
+        "may"
+      ]
+    ]
+  },
+  {
+    "text": "Duolingo shares your personal data only when it is necessary to offer the Service, legally required, or permitted by you.",
+    "id": 38,
+    "receivers": [],
+    "senders": [
+      "Duolingo"
+    ],
+    "attributes": [
+      "personal data"
+    ],
+    "tps": [
+      "when it is necessary to offer the Service, legally required, or permitted by you"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "text": "We will provide personal data to hosting providers such as Amazon Web Services, search engine providers such as Google, analytics providers such as Crashlytics, and support providers such as ZenDesk. For example, we may share your information in order to detect where or how you encountered a bug when using our mobile application. In connection with these operations, our service providers will have access to personal data for a limited time. When we utilize service providers for processing any personal data, we implement contractual protections limiting the use of that personal data to the provision of services to Duolingo.",
+    "id": 39,
+    "receivers": [
+      "hosting providers such as Amazon Web Services",
+      "search engine providers such as Google",
+      "analytics providers such as Crashlytics",
+      "support providers such as ZenDesk"
+    ],
+    "senders": [
+      "We"
+    ],
+    "attributes": [
+      "personal data"
+    ],
+    "tps": [
+      "for a limited time",
+      "we implement contractual protections limiting the use of that personal data to the provision of services to Duolingo",
+      "When we utilize service providers",
+      "For example, we may share your information in order to detect where or how you encountered a bug when using our mobile application"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      [
+        "may"
+      ]
+    ]
+  },
+  {
+    "text": "We will be required to access and disclose personal data in response to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. Additionally, we will access and share account or other personal data when we believe it is necessary to comply with law, to protect our interests or property, to prevent fraud or other illegal activity perpetrated through the Service or using the Duolingo name, or to prevent imminent harm. This will include accessing and sharing personal data with other companies, lawyers, agents or government agencies.",
+    "id": 40,
+    "receivers": [
+      "companies",
+      "lawyers",
+      "agents",
+      "government agencies"
+    ],
+    "senders": ["We"],
+    "attributes": [
+      "personal data"
+    ],
+    "tps": [
+      "in response to lawful requests, such as subpoenas or court orders",
+      "in compliance with applicable laws",
+      "when we believe it is necessary to comply with law",
+      "to protect our interests or property",
+      "to prevent fraud or other illegal activity perpetrated through the Service or using the Duolingo name",
+      "to prevent imminent harm"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "text": "Duolingo will share the complete and accurate results of Duolingo English Tests with such institutions, including universities, potential employers, or other third parties, (collectively, “Score Recipients”) as specified when you send your results after finishing a test or when you apply a coupon sponsored by the Score Recipient before starting a test. These results will include your test score, a video of the interview section of your test, and your written responses to certain parts of the test. We will also share your full name, date of birth, e-mail address, and the photo you take of yourself.",
+    "id": 41,
+    "receivers": [
+      "institutions, including universities, potential employers, or other third parties, (collectively, “Score Recipients”)"
+    ],
+    "senders": [
+      "Duolingo"
+    ],
+    "attributes": [
+      "complete and accurate results of Duolingo English Tests",
+      "your test score, a video of the interview section of your test, and your written responses to certain parts of the test",
+      "full name",
+      "date of birth",
+      "e-mail address",
+      "the photo you take of yourself"
+    ],
+    "tps": [
+      "as specified when you send your results after finishing a test",
+      "when you apply a coupon sponsored by the Score Recipient before starting a test"
+    ],
+    "vague": [
+      [],
+      [],
+      [
+        "certain"
+      ],
+      []
+    ]
+  },
+  {
+    "text": "We will never share examination results with any party without your approval, except that anonymized examination results will be used by Duolingo and its partners to improve the examination and for research and analysis.",
+    "receivers": [
+      "partners"
+    ],
+    "senders": [
+      "Duolingo"
+    ],
+    "attributes": [
+      "examination results"
+    ],
+    "tps": [
+      "anonymized",
+      "to improve the examination and for research and analysis"
+    ],
+    "id": 42,
+    "vague": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "text": "We will not share your Testing ID with any Score Recipients, except with your consent upon initiation of a dispute by a Score Recipient.",
+    "id": 43,
+    "receivers": [
+      "Score Recipients"
+    ],
+    "senders": [
+      "We"
+    ],
+    "attributes": [
+      "Testing ID"
+    ],
+    "tps": [
+      "with your consent upon initiation of a dispute by a Score Recipient"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "text": "If the ownership of all or substantially all of the Duolingo business, or individual business units or assets owned by Duolingo that are related to the Service, were to change, your personal data will be transferred to the new owner.",
+    "id": 44,
+    "receivers": [
+      "new owner"
+    ],
+    "senders": [],
+    "attributes": [
+      "personal data"
+    ],
+    "tps": [
+      "If the ownership of all or substantially all of the Duolingo business, or individual business units or assets owned by Duolingo that are related to the Service, were to change"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "text": "Duolingo will share aggregate or anonymous data collected through the Service, including Activity Data, for purposes such as understanding or improving the service.",
+    "id": 45,
+    "receivers": [],
+    "senders": [
+      "Duolingo"
+    ],
+    "attributes": [
+      "data collected through the Service, including Activity Data"
+    ],
+    "tps": [
+      "aggregate or anonymous",
+      "for purposes such as understanding or improving the service"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "text": "Duolingo will retain your data until your account is deleted, after which point we will retain anonymous data collected through the Service, including Activity Data, which may be used by Duolingo and shared with third parties in any manner.",
+    "id": 46,
+    "receivers": [
+      "third parties"
+    ],
+    "senders": [
+      "Duolingo"
+    ],
+    "attributes": [
+      "data collected through the Service, including Activity Data"
+    ],
+    "tps": [
+      "anonymous",
+      "in any manner"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      [
+        "may"
+      ]
+    ]
+  },
+  {
+    "text": "Please note that you may have cookies placed on your computer by third party websites that refer you to our Service. Although we do not share your personal data with these third party websites unless it is reasonably necessary to offer the Service, they may be able to link certain non-personally identifiable information we transfer to them with personal data they previously collected from you.",
+    "id": 47,
+    "receivers": [
+      "Third party websites"
+    ],
+    "senders": [
+      "Duolingo"
+    ],
+    "attributes": [
+      "certain non-personally identifiable information"
+    ],
+    "tps": [
+      "cookies"
+    ],
+    "vague": [
+      [],
+      [],
+      [
+        "certain"
+      ],
+      [
+        "may"
+      ]
+    ]
+  },
+  {
+    "text": "Duolingo does not control such other sites and is not responsible for their content, their privacy policies, or their use of personal data, including any personal or financial information collected by our third party payment processor to process payments for in-app purchases.",
+    "id": 48,
+    "receivers": [
+      "third party payment processor"
+    ],
+    "senders": [],
+    "attributes": [
+      "personal or financial information"
+    ],
+    "tps": [
+      "to process payments for in-app purchases"
+    ],
+    "vague": [
+      [],
+      [],
+      [],
+      []
+    ]
+  }
+]

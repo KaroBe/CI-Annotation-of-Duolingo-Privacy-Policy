@@ -1,0 +1,148 @@
+[
+  {
+    "text": "Some lessons involve you speaking into the app. To recognize speech your audio may be sent to a third party provider such as Google, Apple, or Amazon Web Services.",
+    "id": 12,
+    "conditionality": [],
+    "generality": [],
+    "numq": [],
+    "modality": [
+      {"word": "may", "context": "audio may be sent to a third party", "attachment":  "action"}
+    ]
+  },
+  {
+    "text": "We will use them to record you and your screen during the entire examination period (“Testing Video”). From the collected data, Duolingo and/or its trusted third-parties may extract biometric signals for the use of identity verification.",
+    "id": 17,
+    "conditionality": [],
+    "generality": [],
+    "numq": [],
+    "modality": [
+      {"word": "may", "context": "Duolingo and/or its trusted third-parties may extract biometric signals", "attachment":  "action"}
+    ]
+  },
+  {
+    "text": "In addition, we store certain information from your browser using cookies. A cookie is a piece of data stored on the user's computer tied to information about the user. We use session ID cookies to confirm that users are logged in. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature; however, you should note that cookies may be necessary to provide you certain features available on the Website (e.g., customized delivery of information).",
+    "id": 25,
+    "conditionality": [],
+    "generality": [],
+    "numq": [
+      {"word": "certain", "context": "we store certain information from your browser", "attachment":  "type"}
+    ],
+    "modality": []
+  },
+  {
+    "text": "Duolingo may use or share anonymous data collected through the Service, including Activity Data without limitation.",
+    "id": 29,
+    "conditionality": [],
+    "generality": [],
+    "numq": [],
+    "modality": [
+      {"word": "may","context": "Duolingo may use or share anonymous data", "attachment":  "action"}
+    ]
+  },
+  {
+    "text": "We may also use your contact information to send you notifications regarding new services, offers and promotions offered by Duolingo if you affirmatively consent to receive such communications.",
+    "id": 30,
+    "conditionality": [],
+    "generality": [],
+    "numq": [],
+    "modality": [
+      {"word": "may","context":"We may also use your contact information to send you notifications", "attachment":  "action"}
+    ]
+  },
+  {
+    "text": "When you register with Duolingo, some of your information is made public and available at various locations including duolingo.com/profile/your-username and duolingo.com/users/your-username. This will include the data from your Duolingo Profile and Account (Name, Location, Bio, Username, User ID, Profile picture and Duolingo Plus membership status); your followers and the people you follow; and your learning progress (XP, Streak, Lingots, Daily Progress, Languages being learned, progress level, Crowns, Skills, Lessons undertaken, Lexemes and Strength).",
+    "id": 31,
+    "conditionality": [],
+    "generality": [],
+    "numq": [
+      {"word": "some","context": "some of your information is made public", "attachment":  "type"}
+    ],
+    "modality": []
+  },
+  {
+    "text": "Third party websites may be able to read, collect and use your public information for their own purposes.",
+    "id": 33,
+    "conditionality": [],
+    "generality": [],
+    "numq": [],
+    "modality": [
+      {"word": "may","context": "Third party websites may be able to read, collect and use your public information", "attachment":  "action"}
+    ]
+  },
+  {
+    "text": "In some cases, other users may be able to supplement your profile, including by submitting comments (which can be deleted by you). Duolingo uses this information to provide you with support, to send you essential notifications, to enforce our terms, conditions and policies, to communicate with you, to administer the Services, and for internal operations, including troubleshooting, data analysis, testing, research, statistical, and survey purposes. Duolingo’s Terms and Conditions provide the contractual lawful basis for these processing activities.",
+    "id": 35,
+    "conditionality": [],
+    "generality": [],
+    "numq": [
+      {"word": "some","context": "In some cases, other users may be able to supplement your profile", "attachment":  "action"}
+    ],
+    "modality": [
+      {"word": "may","context": "In some cases, other users may be able to supplement your profile", "attachment":  "action"}
+    ]
+  },
+  {
+    "text": "We will process information in connection with the Duolingo English Test comprising given name(s), surname(s), date of birth, gender, native language, country, secondary school, self-reported test scores for other exams, application IDs, a picture or scan of a current, valid driver’s license, passport or other government issued ID, your Testing ID, Testing Video, biometric signals extracted from collected data, data about active software processes, information on connected external peripherals, and volume of network traffic, and answers to questions as part of the testing and evaluation process in order: To provide accurate testing results to Score Recipient(s) (as defined below). To compare your Testing ID to your Testing Video to ensure that the person who registered for the examination (and whose identity Duolingo has validated) is the same person who took the examination. In addition, this comparison may be carried out on biometric signals that have been extracted from collected data. To store and review the Testing Video recording, the active software processes and the volume of network traffic to validate that you took the examination without improper assistance. To evaluate your performance on the Duolingo English Test, to report results and to evaluate the usefulness, accuracy and other aspects of the Duolingo English Test. For our research team to validate and improve the examination, in an anonymized format. To analyze audio recordings of verbal responses to improve our ability to understand the spoken language. To share your Testing ID with your consent upon initiation of a dispute by a Score Recipient.",
+    "id": 37,
+    "conditionality": [],
+    "generality": [],
+    "numq": [],
+    "modality": [
+      {"word":"may","context":"comparison may be carried out on biometric signals", "attachment":  "action"}
+    ]
+  },
+  {
+    "text": "We will provide personal data to hosting providers such as Amazon Web Services, search engine providers such as Google, analytics providers such as Crashlytics, and support providers such as ZenDesk. For example, we may share your information in order to detect where or how you encountered a bug when using our mobile application. In connection with these operations, our service providers will have access to personal data for a limited time. When we utilize service providers for processing any personal data, we implement contractual protections limiting the use of that personal data to the provision of services to Duolingo.",
+    "id": 39,
+    "conditionality": [],
+    "generality": [],
+    "numq": [],
+    "modality": [
+      {"word": "may","context": "we may share your information", "attachment":  "action"}
+    ]
+  },
+  {
+    "text": "Duolingo will share the complete and accurate results of Duolingo English Tests with such institutions, including universities, potential employers, or other third parties, (collectively, “Score Recipients”) as specified when you send your results after finishing a test or when you apply a coupon sponsored by the Score Recipient before starting a test. These results will include your test score, a video of the interview section of your test, and your written responses to certain parts of the test. We will also share your full name, date of birth, e-mail address, and the photo you take of yourself.",
+    "id": 41,
+    "conditionality": [],
+    "generality": [],
+    "numq": [
+      {
+        "word":"certain",
+        "context": "responses to certain parts of the test", "attachment":  "type"
+      }
+    ],
+    "modality": []
+  },
+  {
+    "text": "Duolingo will retain your data until your account is deleted, after which point we will retain anonymous data collected through the Service, including Activity Data, which may be used by Duolingo and shared with third parties in any manner.",
+    "id": 46,
+    "conditionality": [],
+    "generality": [],
+    "numq": [],
+    "modality": [
+      {
+        "word":"may",
+        "context": "Data, which may be used", "attachment":  "action"
+      }
+    ]
+  },
+  {
+    "text": "Please note that you may have cookies placed on your computer by third party websites that refer you to our Service. Although we do not share your personal data with these third party websites unless it is reasonably necessary to offer the Service, they may be able to link certain non-personally identifiable information we transfer to them with personal data they previously collected from you.",
+    "id": 47,
+    "conditionality": [],
+    "generality": [],
+    "numq": [
+      {
+        "word": "certain",
+        "context": "link certain non-personally identifiable information", "attachment":  "type"
+      }
+    ],
+    "modality": [
+      {
+        "word":"may",
+        "context": "you may have cookies placed on your computer", "attachment":  "action"
+      }
+    ]
+  }
+]

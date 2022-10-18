@@ -1,0 +1,72 @@
+Data Privacy & Duolingo: Welcome to the Duolingo Data Vault
+
+The Duolingo Data Vault <https://drive-thru.duolingo.com/> is a new
+portal where you can manage all of your data. The Data Vault lets you
+access all of your data, download it, request data erasure, and request
+account deletion. The Data Vault gives you more control over your
+personal data.
+
+
+        What kinds of data does Duolingo collect and how do we use it?
+
+
+          1. Teaching & Learning
+
+The main type of data we collect is directly related to teaching and
+learning. We collect data on what languages a user is learning, what
+skills and lessons a user has completed, and word strength (i.e. which
+words a user has proven to know). This also includes data on when the
+user uses Duolingo, how many lessons they complete, and what in-app
+purchases they make.
+
+Our research team uses this data in aggregate to help improve our
+courses and how we teach.
+
+
+          2. App Performance
+
+We also collect data that we use for app performance purposes, like what
+type of device you’re using, your system software version, and what
+version of the Duolingo app you’re using.
+
+This type of data is used for crash and bug reporting and fixing and
+helps ensure the best user experience. For example, when we release new
+updates to the app, we use this data to monitor any crashes that may
+occur so we can fix them before they impact anyone else.
+
+
+          3. Advertising
+
+For advertising, we work with external companies that show their ads in
+Duolingo. Duolingo does not choose the ads you see in the app. These ads
+are chosen by third-party companies (like Google, Unity, and Facebook).
+You can see and control the type of information these advertising
+companies have access to by visiting their data privacy controls. Google
+<https://privacy.google.com/take-control.html> | Facebook
+<https://www.facebook.com/ads/preferences/>.
+
+These ads are vital for supporting Duolingo’s mission of providing free
+education to everyone.
+
+
+          4. What we don't do
+
+We don’t sell your personal data to third parties. We do not use the
+microphone permissions on your mobile device for anything other than
+speaking exercises in our courses. If it seems like you’re seeing ads in
+Duolingo for products or things you’ve searched for, that’s because our
+third-party ad serving partners like Google and Facebook collect this
+type of information about you outside of Duolingo.
+
+ 
+
+You can read more about our Privacy Policy here
+<https://www.duolingo.com/privacy>. 
+
+You might also be interested in: 
+
+How can I access my personal data?
+<https://support.duolingo.com/hc/en-us/articles/360004193672>
+
+How can I delete my account and data?
+<https://support.duolingo.com/hc/en-us/articles/360004239111>
